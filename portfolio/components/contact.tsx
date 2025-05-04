@@ -75,17 +75,6 @@ export default function Contact() {
                       <p className="text-muted-foreground">iqal.mahendra@gmail.com</p>
                     </div>
                   </div>
-
-                  <div className="flex items-start">
-                    <div className="mr-4 p-3 bg-primary/10 rounded-full">
-                      <Phone className="h-6 w-6 text-primary" />
-                    </div>
-                    <div>
-                      <h4 className="font-semibold mb-1">Phone</h4>
-                      <p className="text-muted-foreground">+62 813-1818-8273</p>
-                    </div>
-                  </div>
-
                   <div className="flex items-start">
                     <div className="mr-4 p-3 bg-primary/10 rounded-full">
                       <MapPin className="h-6 w-6 text-primary" />
