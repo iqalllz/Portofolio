@@ -21,7 +21,7 @@ export default function Hero() {
             <h2 className="text-2xl md:text-3xl font-semibold mb-6">Informatics Student & Aspiring Data Scientist</h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-lg">
               Passionate about transforming data into meaningful insights. Currently studying at Telkom University,
-              class of 2022, with a focus on data analysis and machine learning.
+              class of 2022, with a focus on data analysis and machine learning >.< .
             </p>
             <div className="flex flex-wrap gap-4">
               <Button asChild size="lg">
